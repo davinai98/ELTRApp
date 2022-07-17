@@ -1,0 +1,18 @@
+export default Object.freeze({
+  SCAN_ITEM: "ScanningScreen",
+  ACCOUNT: "AccountDetails",
+  ABOUT: "AboutScreen",
+  ACCOUNT_EDIT: "EditAccount",
+  ACCOUNT_ALLERGIES: "AccountAllergies",
+  ACCOUNT_CONDITIONS: "AccountConditions",
+  FOOD_ITEM: "FoodDetails",
+  LOGIN: "Login",
+  REGISTER: "Register",
+  CHILD_SCAN: "Scan",
+  CHILD_HOME: "Home",
+  CHILD_FOODITEM: "ChildFood",
+  CHILD_BADGES: "ChildBadges",
+  CHILD_ABOUTFOOD: "ChildFoodAbout",
+  CHILD_CHANGE: "ChildChangeMode",
+  DELETE: "DeleteAccount",
+});
